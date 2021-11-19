@@ -411,6 +411,7 @@ footer .attribution a:hover{
     font-weight: 900;
     margin: 4rem ;
     align-self:center;
+    cursor:pointer;
 
 }
 /******************************* Footer section Ends here **************************/
