@@ -410,6 +410,7 @@ footer .attribution a:hover{
     font-family:'Barlow', sans-serif; 
     font-weight: 900;
     margin: 4rem ;
+    align-self:center;
 
 }
 /******************************* Footer section Ends here **************************/
@@ -678,7 +679,9 @@ footer .attribution a:hover{
     footer .attribution a {
         font-size: .6rem;
     }
+    
 }
+.heading
 @media (max-width: 280px){
     .hero .header-text h1 {
         font-size: 1.5rem;
